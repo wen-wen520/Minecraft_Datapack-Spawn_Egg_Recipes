@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "RSR",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sugar"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "S": {
+            "item": "minecraft:sheep_spawn_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:goat_spawn_egg",
+        "count": 1
+    }
+}

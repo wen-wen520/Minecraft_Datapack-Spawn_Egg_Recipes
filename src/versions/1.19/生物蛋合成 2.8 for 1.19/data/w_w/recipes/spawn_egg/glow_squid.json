@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "RGR",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sugar"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "G": {
+            "item": "minecraft:glow_ink_sac"
+        }
+    },
+    "result": {
+        "item": "minecraft:glow_squid_spawn_egg",
+        "count": 1
+    }
+}

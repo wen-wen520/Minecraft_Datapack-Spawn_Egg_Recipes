@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "RBR",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sugar"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "B": {
+            "item": "minecraft:blue_wool"
+        }
+    },
+    "result": {
+        "item": "minecraft:trader_llama_spawn_egg",
+        "count": 1
+    }
+}

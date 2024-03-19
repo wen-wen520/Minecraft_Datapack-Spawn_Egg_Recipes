@@ -1,0 +1,1 @@
+advancement grant @a only w_w:spawn_egg/load

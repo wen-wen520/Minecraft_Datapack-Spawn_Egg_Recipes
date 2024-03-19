@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "RHR",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sugar"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "H": {
+            "item": "minecraft:honey_bottle"
+        }
+    },
+    "result": {
+        "item": "minecraft:bee_spawn_egg",
+        "count": 1
+    }
+}
